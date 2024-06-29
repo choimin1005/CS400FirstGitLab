@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+Minjae Choi
+mchoi83@wisc.edu
+minjaec
  */
 import java.util.*;
 
